@@ -102,10 +102,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdubey88&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anujdubey88&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
-</p>
-
 ### 📈 Contribution Activity
 
 <p align="center">

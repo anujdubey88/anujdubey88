@@ -112,8 +112,19 @@
 
 <p align="center">
   <img height="200" src="https://leetcard.jacoblin.cool/AD02?theme=dark&font=Fira%20Code&ext=heatmap&animation=true" alt="LeetCode AD02"/>
-  &nbsp;&nbsp;
-  <img height="200" src="https://gfgstatscard.vercel.app/anuj9979" alt="GFG anuj9979"/>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/anuj9979/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-anuj9979-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-792-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Basic-31-8BC34A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Easy-211-4CAF50?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Medium-478-FF9800?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Hard-72-F44336?style=flat-square"/>
 </p>
 
 <p align="center">

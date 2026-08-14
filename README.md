@@ -112,9 +112,16 @@
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anujdubey88&theme=tokyo-night&hide_border=true&area=true&color=0e75b6&line=764ABC&point=ffffff" alt="activity graph"/>
 </p>
 
-<!-- Animated contribution snake — needs the GitHub Action below to generate it -->
+### 🧩 Competitive Programming
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anujdubey88/anujdubey88/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+  <img height="200" src="https://leetcard.jacoblin.cool/AD02?theme=dark&font=Fira%20Code&ext=heatmap&animation=true" alt="LeetCode AD02"/>
+  &nbsp;&nbsp;
+  <img height="200" src="https://gfgstatscard.vercel.app/anuj9979" alt="GFG anuj9979"/>
+</p>
+
+<p align="center">
+  <b>2000+ DSA solved</b> &nbsp;•&nbsp; <b>1600+ LeetCode</b> &nbsp;•&nbsp; <b>3★ CodeChef</b> &nbsp;•&nbsp; Global <b>78th / 89th</b> — CodeChef Starters
 </p>
 
 ---

@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Anuj Dubey</h1>
-<h3 align="center">Full-Stack Software Engineer • MERN • Next.js • AWS / DevOps</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:764ABC&height=200&section=header&text=Anuj%20Dubey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" alt="header"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anujdubey88">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;MERN+%2B+Next.js+%2B+TypeScript;AWS+%7C+Terraform+%7C+EKS+%7C+ArgoCD;2000%2B+DSA+solved+%E2%80%A2+Problem+solver" alt="typing"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anuj-dubey-370010231/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -95,6 +102,25 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdubey88&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anujdubey88&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anujdubey88&theme=tokyo-night&hide_border=true&area=true&color=0e75b6&line=764ABC&point=ffffff" alt="activity graph"/>
+</p>
+
+<!-- Animated contribution snake — needs the GitHub Action below to generate it -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anujdubey88/anujdubey88/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</p>
+
 ---
 
 <p align="center"><i>Open to Full-Stack / Backend / DevOps roles. Let's build something.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ABC,100:0e75b6&height=120&section=footer" width="100%" alt="footer"/>
+</p>
